@@ -1,1 +1,2 @@
-# git-conflict-demo
+# Лабораторна робота №8
+Це зміни у гілці feature-branch.
